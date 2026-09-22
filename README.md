@@ -68,11 +68,15 @@
 
 ## Инструменты
 
-**Моделирование:** PlantUML · Draw.io · Figma
-**API:** OpenAPI · Swagger · Postman
-**Базы данных:** PostgreSQL · DBeaver
-**Бизнес-процессы:** BPMN · Camunda
-**Интеграции:** REST · SOAP · RabbitMQ · Kafka
+Моделирование: PlantUML · Draw.io · Figma
+
+API: OpenAPI · Swagger · Postman
+
+Базы данных: PostgreSQL · DBeaver
+
+Бизнес-процессы: BPMN · Camunda
+
+Интеграции: REST · SOAP · RabbitMQ · Kafka
 
 ---
 
